@@ -24,5 +24,5 @@ jobs:
         with:
           source_repo: "https://github.com/nianyuguai/longzhuzhu.git"
           source_branch: "main"
-          destination_branch: "longzhuzhu"
+          destination_branch: "nianyuguai"
           github_token: ${{ secrets.PAT }}
