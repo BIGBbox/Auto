@@ -1,4 +1,4 @@
-name: longzhuzhu-sync
+name: nianyuguai-sync
 on:
   schedule:
     - cron: '1 */3 * * *'
@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-longzhuzhu-qx
+    types: sync-nianyuguai-longzhuzhu
 jobs:
   repo-sync:
     env:
@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync longzhuzhu-qx
+      - name: sync nianyuguai-longzhuzhu
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
