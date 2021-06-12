@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-ningmeng-JavaScript
+    types: sync-panghu999-panghu
 jobs:
   repo-sync:
     env:
@@ -18,11 +18,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync ningmeng-JavaScript
+      - name: sync panghu999-panghu
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/panghu999/ningmeng.git"
-          source_branch: "main"
+          source_repo: "https://github.com/panghu999/panghu.git"
+          source_branch: "master"
           destination_branch: "ningmeng"
           github_token: ${{ secrets.PAT }}
