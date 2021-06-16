@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 15:07:31
+# UPDATED: 2021-06-17 02:10:33
 # DOMAIN: 51
 # DOMAIN-SUFFIX: 31656
 # DOMAIN-KEYWORD: 41
@@ -23951,6 +23951,7 @@ payload:
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,torrentav.net
   - DOMAIN-SUFFIX,torrenteditor.com
+  - DOMAIN-SUFFIX,torrentkitty.tv
   - DOMAIN-SUFFIX,torrentkittycn.com
   - DOMAIN-SUFFIX,torrentprivacy.com
   - DOMAIN-SUFFIX,torrentproject.se
@@ -29903,7 +29904,6 @@ payload:
   - DOMAIN-SUFFIX,www.torrentkitty.com
   - DOMAIN-SUFFIX,www.torrentkitty.net
   - DOMAIN-SUFFIX,www.torrentkitty.org
-  - DOMAIN-SUFFIX,www.torrentkitty.tv
   - DOMAIN-SUFFIX,www.torrentsland.com
   - DOMAIN-SUFFIX,www.totalav.com
   - DOMAIN-SUFFIX,www.totallynsfw.com

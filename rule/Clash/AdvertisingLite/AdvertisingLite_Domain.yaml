@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 02:08:27
+# UPDATED: 2021-06-17 02:10:32
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14645
+# DOMAIN: 14642
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27540
+# TOTAL: 27537
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -1048,7 +1048,6 @@ payload:
   - 'adigniter.org'
   - 'adikteev.com'
   - 'adimise.com'
-  - 'adimmix.com'
   - 'adimpact.com'
   - 'adinc.co.kr'
   - 'adinc.kr'
@@ -1474,7 +1473,6 @@ payload:
   - 'adtlgc.com'
   - 'adtng.com'
   - 'adtoadd.com'
-  - 'adtoll.com'
   - 'adtoma.com'
   - 'adtomafusion.com'
   - 'adtonement.com'
@@ -3076,6 +3074,7 @@ payload:
   - 'c-on-text.com'
   - 'c-rings.net'
   - 'c-sta-cn.upltv.com'
+  - 'c.51xmgys.com'
   - 'c.booksir.com.cn'
   - 'c.dengbaozx.cn'
   - 'c.greystripe.com'
@@ -3369,7 +3368,6 @@ payload:
   - 'chiasephim.xyz'
   - 'chiliadv.com'
   - 'china-netwave.com'
-  - 'chinaxiedu.cn'
   - 'chinesean.com'
   - 'chipleader.com'
   - 'chiptionics.co'
@@ -4003,6 +4001,7 @@ payload:
   - 'csdata1.com'
   - 'csiasvapqrccq.com'
   - 'css.asitend.com'
+  - 'cstmedia.com.cn'
   - 'cswilliamsburg.com'
   - 'cszz.ru'
   - 'ct.eid.co.nz'
@@ -6623,7 +6622,6 @@ payload:
   - 'icetraffic.com'
   - 'iche88.cn'
   - 'ichecknotifyfriends.info'
-  - 'iclbkrgjdstqt.com'
   - 'iclive.com'
   - 'iclwy.xyz'
   - 'icmlfqdb.com'
@@ -6935,7 +6933,6 @@ payload:
   - 'intopicmedia.com'
   - 'intrapromotion.com'
   - 'intrastats.com'
-  - 'intrev.co'
   - 'inuvo.com'
   - 'inuxu.biz'
   - 'inuxu.co.in'
@@ -7092,6 +7089,7 @@ payload:
   - 'javacript.tk'
   - 'javbucks.com'
   - 'jaymancash.com'
+  - 'jbcbio.cn'
   - 'jbrlsr.com'
   - 'jbrpciuloi.com'
   - 'jc.bubbleandyeson.com'
@@ -8443,6 +8441,7 @@ payload:
   - 'mohini-ger.com'
   - 'mokonocdn.com'
   - 'mokuz.ru'
+  - 'mollnia.com'
   - 'momently.com'
   - 'momzs.com'
   - 'mon-deu-1.inf.nimiq.network'
@@ -8459,6 +8458,7 @@ payload:
   - 'monetate.net'
   - 'monetizer101.com'
   - 'monetizze.com.br'
+  - 'money4ads.com'
   - 'moneymakercdn.com'
   - 'moneytec.com'
   - 'moneywhisper.com'
@@ -12539,7 +12539,6 @@ payload:
   - 'tmtrck.com'
   - 'tmvtp.com'
   - 'tnative.ru'
-  - 'tncexvzu.com'
   - 'tncred.com'
   - 'tnctrx.com'
   - 'tns-cs.net'
@@ -12552,7 +12551,6 @@ payload:
   - 'toboads.com'
   - 'toc.io'
   - 'todayapp.tv'
-  - 'todayjiaxiang.cn'
   - 'togenron.com'
   - 'togroltu.net'
   - 'tokenads.com'
@@ -14302,7 +14300,6 @@ payload:
   - 'xts7fgss.com'
   - 'xu5ctufltn.com'
   - 'xuexingkeji.cn'
-  - 'xunyibaike.com'
   - 'xvika.com'
   - 'xvwebllndr.com'
   - 'xxccdshj.com'

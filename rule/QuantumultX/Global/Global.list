@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 15:07:30
+# UPDATED: 2021-06-17 02:10:31
 # HOST: 51
 # HOST-SUFFIX: 31656
 # USER-AGENT: 48
@@ -23950,6 +23950,7 @@ HOST-SUFFIX,toroporno.com,Global
 HOST-SUFFIX,torproject.org,Global
 HOST-SUFFIX,torrentav.net,Global
 HOST-SUFFIX,torrenteditor.com,Global
+HOST-SUFFIX,torrentkitty.tv,Global
 HOST-SUFFIX,torrentkittycn.com,Global
 HOST-SUFFIX,torrentprivacy.com,Global
 HOST-SUFFIX,torrentproject.se,Global
@@ -29902,7 +29903,6 @@ HOST-SUFFIX,www.torhead.com,Global
 HOST-SUFFIX,www.torrentkitty.com,Global
 HOST-SUFFIX,www.torrentkitty.net,Global
 HOST-SUFFIX,www.torrentkitty.org,Global
-HOST-SUFFIX,www.torrentkitty.tv,Global
 HOST-SUFFIX,www.torrentsland.com,Global
 HOST-SUFFIX,www.totalav.com,Global
 HOST-SUFFIX,www.totallynsfw.com,Global

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 02:08:27
+# UPDATED: 2021-06-17 02:10:32
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14645
+# DOMAIN: 14642
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27540
+# TOTAL: 27537
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -1048,7 +1048,6 @@ payload:
   - DOMAIN,adigniter.org
   - DOMAIN,adikteev.com
   - DOMAIN,adimise.com
-  - DOMAIN,adimmix.com
   - DOMAIN,adimpact.com
   - DOMAIN,adinc.co.kr
   - DOMAIN,adinc.kr
@@ -1474,7 +1473,6 @@ payload:
   - DOMAIN,adtlgc.com
   - DOMAIN,adtng.com
   - DOMAIN,adtoadd.com
-  - DOMAIN,adtoll.com
   - DOMAIN,adtoma.com
   - DOMAIN,adtomafusion.com
   - DOMAIN,adtonement.com
@@ -3076,6 +3074,7 @@ payload:
   - DOMAIN,c-on-text.com
   - DOMAIN,c-rings.net
   - DOMAIN,c-sta-cn.upltv.com
+  - DOMAIN,c.51xmgys.com
   - DOMAIN,c.booksir.com.cn
   - DOMAIN,c.dengbaozx.cn
   - DOMAIN,c.greystripe.com
@@ -3369,7 +3368,6 @@ payload:
   - DOMAIN,chiasephim.xyz
   - DOMAIN,chiliadv.com
   - DOMAIN,china-netwave.com
-  - DOMAIN,chinaxiedu.cn
   - DOMAIN,chinesean.com
   - DOMAIN,chipleader.com
   - DOMAIN,chiptionics.co
@@ -4003,6 +4001,7 @@ payload:
   - DOMAIN,csdata1.com
   - DOMAIN,csiasvapqrccq.com
   - DOMAIN,css.asitend.com
+  - DOMAIN,cstmedia.com.cn
   - DOMAIN,cswilliamsburg.com
   - DOMAIN,cszz.ru
   - DOMAIN,ct.eid.co.nz
@@ -6623,7 +6622,6 @@ payload:
   - DOMAIN,icetraffic.com
   - DOMAIN,iche88.cn
   - DOMAIN,ichecknotifyfriends.info
-  - DOMAIN,iclbkrgjdstqt.com
   - DOMAIN,iclive.com
   - DOMAIN,iclwy.xyz
   - DOMAIN,icmlfqdb.com
@@ -6935,7 +6933,6 @@ payload:
   - DOMAIN,intopicmedia.com
   - DOMAIN,intrapromotion.com
   - DOMAIN,intrastats.com
-  - DOMAIN,intrev.co
   - DOMAIN,inuvo.com
   - DOMAIN,inuxu.biz
   - DOMAIN,inuxu.co.in
@@ -7092,6 +7089,7 @@ payload:
   - DOMAIN,javacript.tk
   - DOMAIN,javbucks.com
   - DOMAIN,jaymancash.com
+  - DOMAIN,jbcbio.cn
   - DOMAIN,jbrlsr.com
   - DOMAIN,jbrpciuloi.com
   - DOMAIN,jc.bubbleandyeson.com
@@ -8443,6 +8441,7 @@ payload:
   - DOMAIN,mohini-ger.com
   - DOMAIN,mokonocdn.com
   - DOMAIN,mokuz.ru
+  - DOMAIN,mollnia.com
   - DOMAIN,momently.com
   - DOMAIN,momzs.com
   - DOMAIN,mon-deu-1.inf.nimiq.network
@@ -8459,6 +8458,7 @@ payload:
   - DOMAIN,monetate.net
   - DOMAIN,monetizer101.com
   - DOMAIN,monetizze.com.br
+  - DOMAIN,money4ads.com
   - DOMAIN,moneymakercdn.com
   - DOMAIN,moneytec.com
   - DOMAIN,moneywhisper.com
@@ -12539,7 +12539,6 @@ payload:
   - DOMAIN,tmtrck.com
   - DOMAIN,tmvtp.com
   - DOMAIN,tnative.ru
-  - DOMAIN,tncexvzu.com
   - DOMAIN,tncred.com
   - DOMAIN,tnctrx.com
   - DOMAIN,tns-cs.net
@@ -12552,7 +12551,6 @@ payload:
   - DOMAIN,toboads.com
   - DOMAIN,toc.io
   - DOMAIN,todayapp.tv
-  - DOMAIN,todayjiaxiang.cn
   - DOMAIN,togenron.com
   - DOMAIN,togroltu.net
   - DOMAIN,tokenads.com
@@ -14302,7 +14300,6 @@ payload:
   - DOMAIN,xts7fgss.com
   - DOMAIN,xu5ctufltn.com
   - DOMAIN,xuexingkeji.cn
-  - DOMAIN,xunyibaike.com
   - DOMAIN,xvika.com
   - DOMAIN,xvwebllndr.com
   - DOMAIN,xxccdshj.com

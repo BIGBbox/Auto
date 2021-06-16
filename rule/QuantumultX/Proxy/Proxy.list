@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 15:07:29
+# UPDATED: 2021-06-17 02:10:31
 # HOST: 46
 # HOST-SUFFIX: 31686
 # USER-AGENT: 11
@@ -23957,6 +23957,7 @@ HOST-SUFFIX,toroporno.com,Proxy
 HOST-SUFFIX,torproject.org,Proxy
 HOST-SUFFIX,torrentav.net,Proxy
 HOST-SUFFIX,torrenteditor.com,Proxy
+HOST-SUFFIX,torrentkitty.tv,Proxy
 HOST-SUFFIX,torrentkittycn.com,Proxy
 HOST-SUFFIX,torrentprivacy.com,Proxy
 HOST-SUFFIX,torrentproject.se,Proxy
@@ -29924,7 +29925,6 @@ HOST-SUFFIX,www.torhead.com,Proxy
 HOST-SUFFIX,www.torrentkitty.com,Proxy
 HOST-SUFFIX,www.torrentkitty.net,Proxy
 HOST-SUFFIX,www.torrentkitty.org,Proxy
-HOST-SUFFIX,www.torrentkitty.tv,Proxy
 HOST-SUFFIX,www.torrentsland.com,Proxy
 HOST-SUFFIX,www.totalav.com,Proxy
 HOST-SUFFIX,www.totallynsfw.com,Proxy

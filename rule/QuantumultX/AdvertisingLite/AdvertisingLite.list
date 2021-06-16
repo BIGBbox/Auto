@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 02:08:26
+# UPDATED: 2021-06-17 02:10:31
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12708
-# HOST: 14645
+# HOST: 14642
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27540
+# TOTAL: 27537
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -1047,7 +1047,6 @@ HOST,adicate.com,AdvertisingLite
 HOST,adigniter.org,AdvertisingLite
 HOST,adikteev.com,AdvertisingLite
 HOST,adimise.com,AdvertisingLite
-HOST,adimmix.com,AdvertisingLite
 HOST,adimpact.com,AdvertisingLite
 HOST,adinc.co.kr,AdvertisingLite
 HOST,adinc.kr,AdvertisingLite
@@ -1473,7 +1472,6 @@ HOST,adtive.com,AdvertisingLite
 HOST,adtlgc.com,AdvertisingLite
 HOST,adtng.com,AdvertisingLite
 HOST,adtoadd.com,AdvertisingLite
-HOST,adtoll.com,AdvertisingLite
 HOST,adtoma.com,AdvertisingLite
 HOST,adtomafusion.com,AdvertisingLite
 HOST,adtonement.com,AdvertisingLite
@@ -3075,6 +3073,7 @@ HOST,c-o-u-n-t.com,AdvertisingLite
 HOST,c-on-text.com,AdvertisingLite
 HOST,c-rings.net,AdvertisingLite
 HOST,c-sta-cn.upltv.com,AdvertisingLite
+HOST,c.51xmgys.com,AdvertisingLite
 HOST,c.booksir.com.cn,AdvertisingLite
 HOST,c.dengbaozx.cn,AdvertisingLite
 HOST,c.greystripe.com,AdvertisingLite
@@ -3368,7 +3367,6 @@ HOST,chersoat.com,AdvertisingLite
 HOST,chiasephim.xyz,AdvertisingLite
 HOST,chiliadv.com,AdvertisingLite
 HOST,china-netwave.com,AdvertisingLite
-HOST,chinaxiedu.cn,AdvertisingLite
 HOST,chinesean.com,AdvertisingLite
 HOST,chipleader.com,AdvertisingLite
 HOST,chiptionics.co,AdvertisingLite
@@ -4002,6 +4000,7 @@ HOST,csaimall.com,AdvertisingLite
 HOST,csdata1.com,AdvertisingLite
 HOST,csiasvapqrccq.com,AdvertisingLite
 HOST,css.asitend.com,AdvertisingLite
+HOST,cstmedia.com.cn,AdvertisingLite
 HOST,cswilliamsburg.com,AdvertisingLite
 HOST,cszz.ru,AdvertisingLite
 HOST,ct.eid.co.nz,AdvertisingLite
@@ -6622,7 +6621,6 @@ HOST,icebns.com,AdvertisingLite
 HOST,icetraffic.com,AdvertisingLite
 HOST,iche88.cn,AdvertisingLite
 HOST,ichecknotifyfriends.info,AdvertisingLite
-HOST,iclbkrgjdstqt.com,AdvertisingLite
 HOST,iclive.com,AdvertisingLite
 HOST,iclwy.xyz,AdvertisingLite
 HOST,icmlfqdb.com,AdvertisingLite
@@ -6934,7 +6932,6 @@ HOST,intimlife.net,AdvertisingLite
 HOST,intopicmedia.com,AdvertisingLite
 HOST,intrapromotion.com,AdvertisingLite
 HOST,intrastats.com,AdvertisingLite
-HOST,intrev.co,AdvertisingLite
 HOST,inuvo.com,AdvertisingLite
 HOST,inuxu.biz,AdvertisingLite
 HOST,inuxu.co.in,AdvertisingLite
@@ -7091,6 +7088,7 @@ HOST,javacript.gq,AdvertisingLite
 HOST,javacript.tk,AdvertisingLite
 HOST,javbucks.com,AdvertisingLite
 HOST,jaymancash.com,AdvertisingLite
+HOST,jbcbio.cn,AdvertisingLite
 HOST,jbrlsr.com,AdvertisingLite
 HOST,jbrpciuloi.com,AdvertisingLite
 HOST,jc.bubbleandyeson.com,AdvertisingLite
@@ -8442,6 +8440,7 @@ HOST,mogointeractive.com,AdvertisingLite
 HOST,mohini-ger.com,AdvertisingLite
 HOST,mokonocdn.com,AdvertisingLite
 HOST,mokuz.ru,AdvertisingLite
+HOST,mollnia.com,AdvertisingLite
 HOST,momently.com,AdvertisingLite
 HOST,momzs.com,AdvertisingLite
 HOST,mon-deu-1.inf.nimiq.network,AdvertisingLite
@@ -8458,6 +8457,7 @@ HOST,moneroocean.stream,AdvertisingLite
 HOST,monetate.net,AdvertisingLite
 HOST,monetizer101.com,AdvertisingLite
 HOST,monetizze.com.br,AdvertisingLite
+HOST,money4ads.com,AdvertisingLite
 HOST,moneymakercdn.com,AdvertisingLite
 HOST,moneytec.com,AdvertisingLite
 HOST,moneywhisper.com,AdvertisingLite
@@ -12538,7 +12538,6 @@ HOST,tmserver-2.net,AdvertisingLite
 HOST,tmtrck.com,AdvertisingLite
 HOST,tmvtp.com,AdvertisingLite
 HOST,tnative.ru,AdvertisingLite
-HOST,tncexvzu.com,AdvertisingLite
 HOST,tncred.com,AdvertisingLite
 HOST,tnctrx.com,AdvertisingLite
 HOST,tns-cs.net,AdvertisingLite
@@ -12551,7 +12550,6 @@ HOST,toblog.snssdk.com,AdvertisingLite
 HOST,toboads.com,AdvertisingLite
 HOST,toc.io,AdvertisingLite
 HOST,todayapp.tv,AdvertisingLite
-HOST,todayjiaxiang.cn,AdvertisingLite
 HOST,togenron.com,AdvertisingLite
 HOST,togroltu.net,AdvertisingLite
 HOST,tokenads.com,AdvertisingLite
@@ -14301,7 +14299,6 @@ HOST,xtremline.com,AdvertisingLite
 HOST,xts7fgss.com,AdvertisingLite
 HOST,xu5ctufltn.com,AdvertisingLite
 HOST,xuexingkeji.cn,AdvertisingLite
-HOST,xunyibaike.com,AdvertisingLite
 HOST,xvika.com,AdvertisingLite
 HOST,xvwebllndr.com,AdvertisingLite
 HOST,xxccdshj.com,AdvertisingLite

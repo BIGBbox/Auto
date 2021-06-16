@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 17:08:36
+# UPDATED: 2021-06-17 02:10:32
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 47771
-# DOMAIN: 20715
+# DOMAIN-SUFFIX: 47773
+# DOMAIN: 20709
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68826
+# TOTAL: 68822
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -814,7 +814,6 @@ payload:
   - DOMAIN,abackchain.com
   - DOMAIN,abagifts.com
   - DOMAIN,abandonedaction.com
-  - DOMAIN,abandonedminesafrica.org
   - DOMAIN,abaselectric.com
   - DOMAIN,abatakindergarten.com
   - DOMAIN,abbanreddy.com
@@ -1825,7 +1824,6 @@ payload:
   - DOMAIN,ads.shiftdelete.net
   - DOMAIN,ads.shizmoo.com
   - DOMAIN,ads.shopstyle.com
-  - DOMAIN,ads.shovtvnet.com
   - DOMAIN,ads.showtvnet.com
   - DOMAIN,ads.simtel.com
   - DOMAIN,ads.singlescash.com
@@ -4522,6 +4520,7 @@ payload:
   - DOMAIN,bzvimexwdle.com
   - DOMAIN,c-4fambt.com
   - DOMAIN,c-motors.com
+  - DOMAIN,c.51xmgys.com
   - DOMAIN,c.adclickthru.net
   - DOMAIN,c.adfirmative.com
   - DOMAIN,c.ar.msn.com
@@ -5248,7 +5247,6 @@ payload:
   - DOMAIN,christ4business.org
   - DOMAIN,christianmuralist.com
   - DOMAIN,christinelebeck.com
-  - DOMAIN,christinepantazis.com
   - DOMAIN,christmasgiftnow.com
   - DOMAIN,christmasgiftsau.com
   - DOMAIN,christopherwhull.com
@@ -6185,7 +6183,6 @@ payload:
   - DOMAIN,csgotradefly.com
   - DOMAIN,csgotradejet.com
   - DOMAIN,csgotunes.com
-  - DOMAIN,csgoweaponskins.net
   - DOMAIN,csgowild.com
   - DOMAIN,csinterinc.com
   - DOMAIN,csmstrategy.com
@@ -6431,7 +6428,6 @@ payload:
   - DOMAIN,datashreddergold.com
   - DOMAIN,datasmierci01.blogspot.com
   - DOMAIN,datastore.rediff.com
-  - DOMAIN,datcuoc247.com
   - DOMAIN,date-for-more.com
   - DOMAIN,dateesshop.com
   - DOMAIN,datefree.com
@@ -6517,6 +6513,7 @@ payload:
   - DOMAIN,decoycreation.com
   - DOMAIN,decrolyschool.be
   - DOMAIN,decynsire.com
+  - DOMAIN,dedahuagong.com
   - DOMAIN,def-platform.com
   - DOMAIN,def-platform.net
   - DOMAIN,defaulthacks.com
@@ -6907,6 +6904,7 @@ payload:
   - DOMAIN,down.upantool.com
   - DOMAIN,down.whphonesoft.com
   - DOMAIN,down.xiazai2.net
+  - DOMAIN,down.yxdfc.com
   - DOMAIN,down2.9apps.com
   - DOMAIN,down2.feiyang163.com
   - DOMAIN,down3.feiyang163.com
@@ -7444,7 +7442,6 @@ payload:
   - DOMAIN,epiccash.com
   - DOMAIN,epiccheats.com
   - DOMAIN,epiccodes.com
-  - DOMAIN,epicgamehacks.com
   - DOMAIN,epichackz.com
   - DOMAIN,epickeys.com
   - DOMAIN,episodesaison.com
@@ -8655,6 +8652,7 @@ payload:
   - DOMAIN,gamesfixer.com
   - DOMAIN,gamesfly.com
   - DOMAIN,gamesfusions.com
+  - DOMAIN,gameshackeasy.com
   - DOMAIN,gameshackingtools.com
   - DOMAIN,gameshackmania.com
   - DOMAIN,gameshacks.net
@@ -9108,6 +9106,7 @@ payload:
   - DOMAIN,googleplaycards.dlcodes.com
   - DOMAIN,googleplus.party
   - DOMAIN,googlesgo.com
+  - DOMAIN,googlsucks.com
   - DOMAIN,gool.frieghtiger.com
   - DOMAIN,goooglesecurity.com
   - DOMAIN,goooooooooogle.com
@@ -10070,6 +10069,7 @@ payload:
   - DOMAIN,ijinshan.com
   - DOMAIN,ikealcmavhpk.com
   - DOMAIN,iklan-laris.com
+  - DOMAIN,iklan-sukses.com
   - DOMAIN,iklanads.com
   - DOMAIN,iklanbarismu.com
   - DOMAIN,iklanblogger.com
@@ -10266,7 +10266,6 @@ payload:
   - DOMAIN,inbergmotors.net
   - DOMAIN,inboxdollars.com
   - DOMAIN,incapsafrica.com
-  - DOMAIN,incentiverewardcenter.com
   - DOMAIN,incestland.com
   - DOMAIN,inclusivediversity.co.uk
   - DOMAIN,incoctel.cl
@@ -10434,7 +10433,6 @@ payload:
   - DOMAIN,inthevip-sex.com
   - DOMAIN,intidayads.com
   - DOMAIN,intournament.com
-  - DOMAIN,intrev.co
   - DOMAIN,invention.festinolente.cl
   - DOMAIN,inventionpassenger.com
   - DOMAIN,inversiontableauthority.com
@@ -10600,6 +10598,7 @@ payload:
   - DOMAIN,jailbreak7.newbetakey.com
   - DOMAIN,jailbreakbj.com
   - DOMAIN,jailbreakps4.net
+  - DOMAIN,jaipurdentalimplant.com
   - DOMAIN,jaipurescortsgirls.com
   - DOMAIN,jaizouji.com
   - DOMAIN,jakitweb.com
@@ -12540,6 +12539,7 @@ payload:
   - DOMAIN,mobil.gamepublicist.com
   - DOMAIN,mobile-c.clickability.com
   - DOMAIN,mobile-campaigns.avast.com
+  - DOMAIN,mobile-craigslist.org
   - DOMAIN,mobile-global.baidu.com
   - DOMAIN,mobile-redirection.com
   - DOMAIN,mobile.2200120.com
@@ -12624,6 +12624,7 @@ payload:
   - DOMAIN,mondoperaio.net
   - DOMAIN,monetizemore.com
   - DOMAIN,money.payadded.com
+  - DOMAIN,money4ads.com
   - DOMAIN,moneybot.net
   - DOMAIN,moneyexpert.com
   - DOMAIN,moneymakingnews.xyz
@@ -14301,7 +14302,6 @@ payload:
   - DOMAIN,pl2.slimg0ji-berry.com
   - DOMAIN,placeofentertainment.org
   - DOMAIN,placeplay.com
-  - DOMAIN,placeskins.com
   - DOMAIN,plaimedia.com
   - DOMAIN,plalifestyle.com
   - DOMAIN,planet-tachyon.com
@@ -14436,7 +14436,6 @@ payload:
   - DOMAIN,popupmoney.com
   - DOMAIN,popupnation.com
   - DOMAIN,popups.afftrack001.com
-  - DOMAIN,popups.infostart.com
   - DOMAIN,popvertising.com
   - DOMAIN,porn-sex-free.com
   - DOMAIN,porn-sluts.com
@@ -14512,7 +14511,6 @@ payload:
   - DOMAIN,powerplanting.com
   - DOMAIN,powershopnet.net
   - DOMAIN,powerstrike.org
-  - DOMAIN,powertraf.com
   - DOMAIN,powr-counter.herokuapp.com
   - DOMAIN,poxcldtepiulo.com
   - DOMAIN,pozyczki-prywatne.com
@@ -15417,7 +15415,6 @@ payload:
   - DOMAIN,risingindianews.com
   - DOMAIN,riskfreebettingclub.com
   - DOMAIN,rivasearchpage.com
-  - DOMAIN,riverparkbaseball.org
   - DOMAIN,rjtcrxzd.com
   - DOMAIN,rkadint.com
   - DOMAIN,rkkdlaw.com
@@ -16302,6 +16299,7 @@ payload:
   - DOMAIN,show-msgch.qq.com
   - DOMAIN,show.adsbing.com
   - DOMAIN,show.everytell.com
+  - DOMAIN,show.niqiu99.org
   - DOMAIN,showcore.net
   - DOMAIN,showcount.honest.com
   - DOMAIN,showdevelopment.com
@@ -17156,7 +17154,6 @@ payload:
   - DOMAIN,steam.cooldownloadz.com
   - DOMAIN,steam.extafiles.com
   - DOMAIN,steam.legratuits.com
-  - DOMAIN,steamac.com
   - DOMAIN,steamcammunitu.com
   - DOMAIN,steamcommunita.com
   - DOMAIN,steamcommunitly.site88.net
@@ -17535,7 +17532,6 @@ payload:
   - DOMAIN,tableau-test.fyber.com
   - DOMAIN,tableauxargentes.com
   - DOMAIN,tabloidmitra.com
-  - DOMAIN,tackthisclick.com
   - DOMAIN,tactical-supplies.com
   - DOMAIN,tadavomteam.com
   - DOMAIN,tag.adtrendmedia.net
@@ -17650,7 +17646,6 @@ payload:
   - DOMAIN,te.signonsandiego.com
   - DOMAIN,te.thestar.com
   - DOMAIN,te.versiontracker.com
-  - DOMAIN,teachac.com
   - DOMAIN,teachscape.vo.llnwd.net
   - DOMAIN,tealeaf.com
   - DOMAIN,team-bobcat.org
@@ -18956,7 +18951,6 @@ payload:
   - DOMAIN,usa.bravo-dog.com
   - DOMAIN,usa.dauid-iep.com
   - DOMAIN,usa.quebec-bin.com
-  - DOMAIN,usa.teutorigos-phi.com
   - DOMAIN,usa1pizzawesthaven.com
   - DOMAIN,usachoice.net
   - DOMAIN,usadserver.com
@@ -18973,7 +18967,6 @@ payload:
   - DOMAIN,usd.sierra-boa.com
   - DOMAIN,use.quebec-bin.com
   - DOMAIN,use.quebec-lea.com
-  - DOMAIN,use.teutorigos-phi.com
   - DOMAIN,use.typekit.net
   - DOMAIN,use.unbounce.com
   - DOMAIN,usedcopiersaustin.com
@@ -19637,6 +19630,7 @@ payload:
   - DOMAIN,wellsfargonline.rumahweb.org
   - DOMAIN,wellsigns.com
   - DOMAIN,wellstar-company.com
+  - DOMAIN,welovegracetv.com
   - DOMAIN,wen.jshbyn.com
   - DOMAIN,werbeflut.net
   - DOMAIN,werbung.meteoxpress.com
@@ -62627,6 +62621,8 @@ payload:
   - DOMAIN-SUFFIX,tradesoul.cn
   - DOMAIN-SUFFIX,tradetracker.net
   - DOMAIN-SUFFIX,tradineseveni.club
+  - DOMAIN-SUFFIX,tradplus.cn
+  - DOMAIN-SUFFIX,tradplus.com
   - DOMAIN-SUFFIX,tradplusad.com
   - DOMAIN-SUFFIX,trafex.net
   - DOMAIN-SUFFIX,traff6.com

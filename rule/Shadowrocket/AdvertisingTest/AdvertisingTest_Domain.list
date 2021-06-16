@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 17:08:37
+# UPDATED: 2021-06-17 02:10:33
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 77260
-# DOMAIN: 14312
+# DOMAIN-SUFFIX: 77270
+# DOMAIN: 14311
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 92213
+# TOTAL: 92222
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -415,7 +415,6 @@ ab.unbounce.com
 ab159015.adbutler-zilon.com
 ab163949.adbutler-kaon.com
 abagifts.com
-abandonedminesafrica.org
 abaselectric.com
 abatakindergarten.com
 abbanreddy.com
@@ -3031,7 +3030,6 @@ chrissyelder63.wixsite.com
 christ4business.org
 christianmuralist.com
 christinelebeck.com
-christinepantazis.com
 christmasgiftnow.com
 christmasgiftsau.com
 christopherwhull.com
@@ -3596,7 +3594,6 @@ csgotaunt.com
 csgotradefly.com
 csgotradejet.com
 csgotunes.com
-csgoweaponskins.net
 csgowild.com
 csinterinc.com
 csmstrategy.com
@@ -3829,6 +3826,7 @@ decografix.com
 decohunter.com
 decrolyschool.be
 decynsire.com
+dedahuagong.com
 defaulthacks.com
 defensealloys.com
 defenseattorneyvamd.com
@@ -4127,6 +4125,7 @@ down.unadnet.com.cn
 down.upantool.com
 down.whphonesoft.com
 down.xiazai2.net
+down.yxdfc.com
 down2.9apps.com
 down2.feiyang163.com
 down3.feiyang163.com
@@ -4562,7 +4561,6 @@ epic-gamesoftware.com
 epiccash.com
 epiccheats.com
 epiccodes.com
-epicgamehacks.com
 epichackz.com
 epickeys.com
 episodesaison.com
@@ -5564,6 +5562,7 @@ gamesextensions24.com
 gamesfixer.com
 gamesfly.com
 gamesfusions.com
+gameshackeasy.com
 gameshackingtools.com
 gameshackmania.com
 gameshacks.net
@@ -5883,6 +5882,7 @@ googleme.eu
 googleplay.validcheats.com
 googleplaycards.dlcodes.com
 googlesgo.com
+googlsucks.com
 gool.frieghtiger.com
 goooglesecurity.com
 goooooooooogle.com
@@ -6674,6 +6674,7 @@ iiopwcmdp.fgppchg.fgpp.com
 ijeti.imeti.org
 ijinshan.com
 ikealcmavhpk.com
+iklan-sukses.com
 iklaninter.net
 iklantanpadaftar.com
 ikratorna.com
@@ -7052,6 +7053,7 @@ jailbreak-app.com
 jailbreak7.newbetakey.com
 jailbreakbj.com
 jailbreakps4.net
+jaipurdentalimplant.com
 jaipurescortsgirls.com
 jakitweb.com
 jakzxxzrymhz.com
@@ -8506,6 +8508,7 @@ mobacoinhack.com
 mobap.njlbms.com
 mobiapp-games.com
 mobil.gamepublicist.com
+mobile-craigslist.org
 mobile-redirection.com
 mobile.2200120.com
 mobile.activeshopper.com
@@ -9773,7 +9776,6 @@ pl1.the-titanium.com
 pl2.slimg0ji-berry.com
 placeofentertainment.org
 placeplay.com
-placeskins.com
 plaimedia.com
 plalifestyle.com
 planet-tachyon.com
@@ -10524,7 +10526,6 @@ risehack.com
 risingindianews.com
 riskfreebettingclub.com
 rivasearchpage.com
-riverparkbaseball.org
 rjtcrxzd.com
 rkadint.com
 rkkdlaw.com
@@ -12052,7 +12053,6 @@ tabex.sopharma.bg
 tabfirmware.com
 tableauxargentes.com
 tabloidmitra.com
-tackthisclick.com
 tactical-supplies.com
 tadavomteam.com
 tag.adtrendmedia.net
@@ -12987,7 +12987,6 @@ us.vortex-win.data.microsoft.com
 usa-jiaji.com
 usa.dauid-iep.com
 usa.quebec-bin.com
-usa.teutorigos-phi.com
 usa1pizzawesthaven.com
 usachoice.net
 usadserver.com
@@ -13000,7 +12999,6 @@ usb003.fgppchg.fgpp.com
 usd.quebec-bin.com
 use.quebec-bin.com
 use.quebec-lea.com
-use.teutorigos-phi.com
 use.typekit.net
 use.unbounce.com
 usedcopiersaustin.com
@@ -13460,6 +13458,7 @@ wellsfargocom.vpstrust.com
 wellsfargonline.rumahweb.org
 wellsigns.com
 wellstar-company.com
+welovegracetv.com
 wen.jshbyn.com
 westcoastuniversity-edu.com
 westerntaneyfire.com
@@ -15143,6 +15142,7 @@ zzz.clickbank.net
 .22lm.cc
 .22pixx.xyz
 .22pornz.site
+.22qzhao5.cn
 .23205523023daea6.com
 .2334ea708ab6d79.com
 .233fb5b59351.com
@@ -23336,6 +23336,7 @@ zzz.clickbank.net
 .ahxhny.cn
 .ahyau.com
 .ahyhhxpeeswgtl.com
+.ahylong.cn
 .ahyuns.com
 .ahzahg6ohb.com
 .ahzdlvsli.com
@@ -30674,6 +30675,7 @@ zzz.clickbank.net
 .cdn.adstract.com
 .cdn.advsmedia.net
 .cdn.aegins.com
+.cdn.allsportsflix.best
 .cdn.altitudeplatform.com
 .cdn.amateurmatch.com
 .cdn.amzuu.com
@@ -47130,7 +47132,6 @@ zzz.clickbank.net
 .i.image-ad.jp
 .i.imedia.cz
 .i.interia.pl
-.i.isnssdk.com
 .i.j2j.ru
 .i.l.cnn.net
 .i.laih.com
@@ -51779,6 +51780,7 @@ zzz.clickbank.net
 .kuaidibiaoju.com
 .kuaidibox.cn
 .kuaidifeng.cn
+.kuaidube.cn
 .kuaigao.rrsdl.com
 .kuaikaiapp.com
 .kuaikan.netmon.360safe.com
@@ -51854,6 +51856,7 @@ zzz.clickbank.net
 .kuyun.com
 .kuzalooza.com
 .kuzexinxi.com
+.kuzeyinyeri.site
 .kv-analytics.kiotviet.vn
 .kv.stat.nearme.com.cn
 .kvcd7w375h.ru
@@ -53515,7 +53518,6 @@ zzz.clickbank.net
 .log.beecost.vn
 .log.bitauto.com
 .log.btopenworld.com
-.log.byteoversea.com.edgekey.net
 .log.ca.gov.vn
 .log.china.cn
 .log.cinematoday.jp
@@ -60427,6 +60429,7 @@ zzz.clickbank.net
 .nice3aiea.com
 .nicearticle.cc
 .nicelabel.cc
+.nicelook.cn
 .nicequest.com
 .nicesearches.com
 .nicevideos.xyz
@@ -62034,6 +62037,7 @@ zzz.clickbank.net
 .olimpbanners.info
 .olineman.pro
 .olioeroli.it
+.olivedinflats.space
 .olivka.biz
 .olizyr.com
 .olkrzytv.com
@@ -68999,6 +69003,7 @@ zzz.clickbank.net
 .revlift.io
 .revmob.com
 .revoffers.com
+.revoltprohibit.com
 .revolutelyplan.info
 .revolvermaps.com
 .revotas.com
@@ -77489,6 +77494,7 @@ zzz.clickbank.net
 .supert.ag
 .supertop.ru
 .supertop100.com
+.supertotobet736.com
 .supertracking.net
 .supertrackingz.com
 .supertraders.club
@@ -79351,6 +79357,7 @@ zzz.clickbank.net
 .thepornsurvey.com
 .thepounder.com
 .therapistla.com
+.therapistpopulationcommentary.com
 .therebelfasters.info
 .therejockeryfu.fun
 .thergoldru.club
@@ -81736,6 +81743,8 @@ zzz.clickbank.net
 .tradetracker.net
 .tradineseveni.club
 .trading-rtbg.com
+.tradplus.cn
+.tradplus.com
 .tradplusad.com
 .traf-3rs.com
 .traf-zona.ru

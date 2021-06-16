@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 17:08:35
+# UPDATED: 2021-06-17 02:10:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14645
+# DOMAIN: 14642
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27835
+# TOTAL: 27832
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1049,7 +1049,6 @@ adicate.com
 adigniter.org
 adikteev.com
 adimise.com
-adimmix.com
 adimpact.com
 adinc.co.kr
 adinc.kr
@@ -1475,7 +1474,6 @@ adtive.com
 adtlgc.com
 adtng.com
 adtoadd.com
-adtoll.com
 adtoma.com
 adtomafusion.com
 adtonement.com
@@ -3077,6 +3075,7 @@ c-o-u-n-t.com
 c-on-text.com
 c-rings.net
 c-sta-cn.upltv.com
+c.51xmgys.com
 c.booksir.com.cn
 c.dengbaozx.cn
 c.greystripe.com
@@ -3370,7 +3369,6 @@ chersoat.com
 chiasephim.xyz
 chiliadv.com
 china-netwave.com
-chinaxiedu.cn
 chinesean.com
 chipleader.com
 chiptionics.co
@@ -4004,6 +4002,7 @@ csaimall.com
 csdata1.com
 csiasvapqrccq.com
 css.asitend.com
+cstmedia.com.cn
 cswilliamsburg.com
 cszz.ru
 ct.eid.co.nz
@@ -6624,7 +6623,6 @@ icebns.com
 icetraffic.com
 iche88.cn
 ichecknotifyfriends.info
-iclbkrgjdstqt.com
 iclive.com
 iclwy.xyz
 icmlfqdb.com
@@ -6936,7 +6934,6 @@ intimlife.net
 intopicmedia.com
 intrapromotion.com
 intrastats.com
-intrev.co
 inuvo.com
 inuxu.biz
 inuxu.co.in
@@ -7093,6 +7090,7 @@ javacript.gq
 javacript.tk
 javbucks.com
 jaymancash.com
+jbcbio.cn
 jbrlsr.com
 jbrpciuloi.com
 jc.bubbleandyeson.com
@@ -8444,6 +8442,7 @@ mogointeractive.com
 mohini-ger.com
 mokonocdn.com
 mokuz.ru
+mollnia.com
 momently.com
 momzs.com
 mon-deu-1.inf.nimiq.network
@@ -8460,6 +8459,7 @@ moneroocean.stream
 monetate.net
 monetizer101.com
 monetizze.com.br
+money4ads.com
 moneymakercdn.com
 moneytec.com
 moneywhisper.com
@@ -12540,7 +12540,6 @@ tmserver-2.net
 tmtrck.com
 tmvtp.com
 tnative.ru
-tncexvzu.com
 tncred.com
 tnctrx.com
 tns-cs.net
@@ -12553,7 +12552,6 @@ toblog.snssdk.com
 toboads.com
 toc.io
 todayapp.tv
-todayjiaxiang.cn
 togenron.com
 togroltu.net
 tokenads.com
@@ -14303,7 +14301,6 @@ xtremline.com
 xts7fgss.com
 xu5ctufltn.com
 xuexingkeji.cn
-xunyibaike.com
 xvika.com
 xvwebllndr.com
 xxccdshj.com

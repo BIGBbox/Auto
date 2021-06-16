@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-15 15:07:31
+# UPDATED: 2021-06-17 02:10:33
 # DOMAIN: 46
 # DOMAIN-SUFFIX: 31686
 # DOMAIN-KEYWORD: 29
@@ -23957,6 +23957,7 @@ payload:
   - '.torproject.org'
   - '.torrentav.net'
   - '.torrenteditor.com'
+  - '.torrentkitty.tv'
   - '.torrentkittycn.com'
   - '.torrentprivacy.com'
   - '.torrentproject.se'
@@ -29924,7 +29925,6 @@ payload:
   - '.www.torrentkitty.com'
   - '.www.torrentkitty.net'
   - '.www.torrentkitty.org'
-  - '.www.torrentkitty.tv'
   - '.www.torrentsland.com'
   - '.www.totalav.com'
   - '.www.totallynsfw.com'
