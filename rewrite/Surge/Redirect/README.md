@@ -14,7 +14,7 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 0 |
+| mitm | 3 |
 | force_http_engine_hosts | 0 |
 | redirect | 53 |
 ## 配置说明

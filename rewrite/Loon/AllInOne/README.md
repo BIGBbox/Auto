@@ -14,7 +14,7 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 536 |
+| mitm | 537 |
 | URL-REGEX | 7 |
 | reject | 715 |
 | http-response | 29 |

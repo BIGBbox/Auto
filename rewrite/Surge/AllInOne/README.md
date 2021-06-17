@@ -14,7 +14,7 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 536 |
+| mitm | 537 |
 | force_http_engine_hosts | 14 |
 | URL-REGEX | 7 |
 | reject | 715 |
